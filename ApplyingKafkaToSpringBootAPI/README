@@ -1,0 +1,6 @@
+Spring Boot App lets us create Kafka Producers (Sends messages into Kafka Topics)
+Spring Boot App lets us create Kafka Consumers (Retrives messages from Kafka Topics)
+Zookeeper server run on port 8081
+Kafka server runs on port 9092
+NOTE: Zookeeper Server -> Kafka Server
+NOTE: Had to downgrade from Kafka 3.0.0 to Kafka 2.8.1 for Windows 10 Compatibility
